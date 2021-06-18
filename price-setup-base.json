@@ -1,7 +1,7 @@
 {
   "BASE/QUOTE": {
-    "price": 15,
-    "up": 0.15,
-    "down": 0.1
+    "price": 0.015,
+    "up": 0.02,
+    "down": 0.01
   }
 }
